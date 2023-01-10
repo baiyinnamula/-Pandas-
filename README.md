@@ -10,7 +10,7 @@ https://www.gairuo.com/file/data/dataset/team.xlsx
 
 ## 在案例部分，使用到了以下数据集：
 
-https://www.gairuo.com/file/data/dataset/sample-salesv3.xlsx
-https://www.gairuo.com/file/data/dataset/GDP-China.csv
-https://www.gairuo.com/file/data/dataset/countries-aggregated.csv
-https://www.gairuo.com/file/data/dataset/iris.data
+* https://www.gairuo.com/file/data/dataset/sample-salesv3.xlsx
+* https://www.gairuo.com/file/data/dataset/GDP-China.csv
+* https://www.gairuo.com/file/data/dataset/countries-aggregated.csv
+* https://www.gairuo.com/file/data/dataset/iris.data
